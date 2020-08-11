@@ -19,6 +19,7 @@
 		F241F8E524DB790F006582BA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F241F8E424DB790F006582BA /* Preview Assets.xcassets */; };
 		F241F8E824DB790F006582BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F241F8E624DB790F006582BA /* LaunchScreen.storyboard */; };
 		F241F8F024DB7C71006582BA /* afterLaunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F241F8EF24DB7C71006582BA /* afterLaunchScreen.swift */; };
+		F28276DC24E353DC00BC3074 /* ezgif-5-1f21ec43540b.gif in Resources */ = {isa = PBXBuildFile; fileRef = F28276DB24E353DC00BC3074 /* ezgif-5-1f21ec43540b.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F241F8E724DB790F006582BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F241F8E924DB790F006582BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F241F8EF24DB7C71006582BA /* afterLaunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = afterLaunchScreen.swift; sourceTree = "<group>"; };
+		F28276DB24E353DC00BC3074 /* ezgif-5-1f21ec43540b.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ezgif-5-1f21ec43540b.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		F241F8DA24DB7909006582BA /* Windows 98 */ = {
 			isa = PBXGroup;
 			children = (
+				F28276DA24E353BF00BC3074 /* App-assets */,
 				F241F8DB24DB7909006582BA /* AppDelegate.swift */,
 				F241F8DD24DB7909006582BA /* SceneDelegate.swift */,
 				F241F8DF24DB7909006582BA /* ContentView.swift */,
@@ -91,6 +94,14 @@
 				F241F8E424DB790F006582BA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F28276DA24E353BF00BC3074 /* App-assets */ = {
+			isa = PBXGroup;
+			children = (
+				F28276DB24E353DC00BC3074 /* ezgif-5-1f21ec43540b.gif */,
+			);
+			path = "App-assets";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +162,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28276DC24E353DC00BC3074 /* ezgif-5-1f21ec43540b.gif in Resources */,
 				F241F8E824DB790F006582BA /* LaunchScreen.storyboard in Resources */,
 				F241F8E524DB790F006582BA /* Preview Assets.xcassets in Resources */,
 				F241F8E224DB790F006582BA /* Assets.xcassets in Resources */,
