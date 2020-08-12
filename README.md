@@ -17,5 +17,6 @@
 
 1. Clone the repo;
 2. Open the cloned repo;
-3. Run application by pressing CMD + R;
+3. Select iPad Pro 11 inch
+4. Run application by pressing CMD + R;
   
