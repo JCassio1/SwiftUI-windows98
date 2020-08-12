@@ -20,3 +20,9 @@
 3. Select iPad Pro 11 inch
 4. Run application by pressing CMD + R;
   
+## 📝 Other features that can be added
+
+1. Multitask icon when an app is opened;
+2. Internet explorer application;
+3. Support for multiple dimensions;
+4. Replicate crashes (a bonus!);
